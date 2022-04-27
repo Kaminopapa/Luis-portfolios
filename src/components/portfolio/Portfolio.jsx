@@ -10,25 +10,26 @@ const Portfolio = () => {
   const data = [
     {
       id: 1,
+      image: IMG3,
+      title: 'Miley Design',
+      github: 'https://github.com/Kaminopapa/MileyDesignn',
+      demo: 'https://kaminopapa.github.io/MileyDesignn/'
+    },
+    {
+      id: 2,
       image: IMG1,
       title: 'HWread Online Reading',
       github: 'https://github.com/Kaminopapa/HWread',
       demo: 'https://kaminopapa.github.io/HWread/'
     },
     {
-      id: 2,
+      id: 3,
       image: IMG2,
       title: 'Welcome to Venezuela',
       github: 'https://github.com/Kaminopapa/Kaminopapa.github.io',
       demo: 'https://kaminopapa.github.io/'
     },
-    {
-      id: 3,
-      image: IMG3,
-      title: 'Miley Design',
-      github: 'https://github.com/Kaminopapa/Mileydesign',
-      demo: 'https://kaminopapa.github.io/Mileydesign/'
-    },
+  
   
   ]
 
@@ -48,7 +49,7 @@ const Portfolio = () => {
                 <MouseParallaxContainer>
                 <MouseParallaxChild factorX={0.05} factorY={0.09} >
                   <div className="portfolio__item-image">
-                    <img src={image} style={{ height: '300px' }} alt={title} />
+                    <img src={image} style={{ height: '330px' }} alt={title} />
                     
                   </div>
                   </MouseParallaxChild>

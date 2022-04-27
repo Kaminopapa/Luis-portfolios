@@ -31,7 +31,7 @@ header {
     animation-fill-mode: forwards;
 }
 .keyboard{
-    transform: translate(30%,150%);
+    transform: translate(20%,180%);
 }
 .sunny{
     transform: translate(250%,10%);

@@ -191,7 +191,9 @@ h1 span::before {
         font-size: 2rem;
     }
 
-
+    .hello{
+        transform: translate(-5%,-5%);
+    }
     .header__socials,
     .scroll__down {
         display: none;
