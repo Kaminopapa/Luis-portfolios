@@ -192,7 +192,7 @@ h1 span::before {
     }
 
     .hello{
-        transform: translate(-5%,-5%);
+        transform: translate(-10%,-10%);
     }
     .header__socials,
     .scroll__down {
