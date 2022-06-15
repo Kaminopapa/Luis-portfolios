@@ -14,7 +14,7 @@ nav{
     backdrop-filter: blur(15px);
     opacity: 0;
     animation: navOff 1s linear;
-    animation-delay: 1s;
+    animation-delay: 9s;
     animation-fill-mode: forwards;
 
 }
