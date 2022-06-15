@@ -27,10 +27,11 @@
 }
 /* this part can be change */
 
-.portfolio__item h3{
+.portfolio__item h2{
 margin: 1.2rem 0 2rem;
 display: flex;
 justify-content: center;
+letter-spacing: 2px;
 
 }
 .portfolio__item-cta{
@@ -39,6 +40,16 @@ justify-content: center;
     margin-bottom: 1rem;
     justify-content: center;
 }
+.description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+    
+   
+}
+
 
 
 

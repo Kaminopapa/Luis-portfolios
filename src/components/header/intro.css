@@ -2,7 +2,7 @@
     background: black;
     animation: toGreen 3s linear;
     animation-fill-mode: forwards;
-    animation-delay: 12s;
+    animation-delay: 6s;
 }
 @keyframes toGreen{
     0%{
@@ -20,7 +20,7 @@
     display: flex;
     content: "Hello";
     padding-left: 47%;
-    animation: Hello 10s ease-in;
+    animation: Hello 5s ease-in;
     animation-fill-mode: forwards;
 }
 
@@ -75,7 +75,7 @@ h1 span {
     opacity: 0;
     animation: showUp 3s linear;
     animation-fill-mode: forwards;
-    animation-delay: 9s;
+    animation-delay: 5s;
 
 }
 

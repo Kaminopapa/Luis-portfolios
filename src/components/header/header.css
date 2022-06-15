@@ -27,7 +27,7 @@ header {
     object-fit: contain;
     opacity: 0;
     animation: off 3s linear;
-    animation-delay: 13s;
+    animation-delay: 8s;
     animation-fill-mode: forwards;
 }
 .keyboard{
@@ -57,7 +57,7 @@ header {
     justify-content: center;
     opacity: 0;
     animation: off 2s linear;
-    animation-delay: 13s;
+    animation-delay: 8s;
     animation-fill-mode: forwards;
 }
 @keyframes off{
@@ -76,7 +76,7 @@ header {
     bottom: 3rem;
     opacity: 0;
     animation: off 2s linear;
-    animation-delay: 14s;
+    animation-delay: 8s;
     animation-fill-mode: forwards;
 }
 
@@ -100,7 +100,7 @@ header {
     font-size: 0.9rem;
     opacity: 0;
     animation: off 2s linear;
-    animation-delay: 14s;
+    animation-delay: 8s;
     animation-fill-mode: forwards;
 
 }
