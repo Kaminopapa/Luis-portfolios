@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Luis-portfolios/static/css/main.bd14ad2a.css",
+    "main.js": "/Luis-portfolios/static/js/main.a6758e23.js",
+    "static/media/portfolio.jpg": "/Luis-portfolios/static/media/portfolio.7f11ffd1bf1ff1a8eb7b.jpg",
+    "static/media/aboutmerec.jpg": "/Luis-portfolios/static/media/aboutmerec.cfdf8cf15908b4d6aa21.jpg",
+    "static/media/portfolio2.webp": "/Luis-portfolios/static/media/portfolio2.a30ad8a23a8ea1fdb616.webp",
+    "static/media/mileyLogo.png": "/Luis-portfolios/static/media/mileyLogo.533a93bd235ba96b61bf.png",
+    "static/media/sunny.png": "/Luis-portfolios/static/media/sunny.0568508d6330f7777fba.png",
+    "static/media/keyboard.png": "/Luis-portfolios/static/media/keyboard.73a554967f5b26c1b6dd.png",
+    "static/media/eilu.png": "/Luis-portfolios/static/media/eilu.136cd9930bde92decc0e.png",
+    "static/media/universal1.png": "/Luis-portfolios/static/media/universal1.100464d54210af933e09.png",
+    "static/media/cv.PDF": "/Luis-portfolios/static/media/cv.12bda9de19ca0172752c.PDF",
+    "static/media/learning.jpeg": "/Luis-portfolios/static/media/learning.744637b3f43f63df9294.jpeg",
+    "static/media/guitar.png": "/Luis-portfolios/static/media/guitar.647e925d378a830fa004.png",
+    "index.html": "/Luis-portfolios/index.html",
+    "main.bd14ad2a.css.map": "/Luis-portfolios/static/css/main.bd14ad2a.css.map",
+    "main.a6758e23.js.map": "/Luis-portfolios/static/js/main.a6758e23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd14ad2a.css",
+    "static/js/main.a6758e23.js"
+  ]
+}
