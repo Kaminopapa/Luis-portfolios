@@ -57,7 +57,7 @@ const Nav = () => {
         onClick={() => handleClick()}
         className={
           activeNav === "#experience" ||
-          (scrollPosition > 1280 && scrollPosition < 1813)
+          (scrollPosition > 1280 && scrollPosition < 1881)
             ? "active"
             : ""
         }
@@ -69,7 +69,7 @@ const Nav = () => {
         onClick={() => handleClick()}
         className={
           activeNav === "#services" ||
-          (scrollPosition > 1813 && scrollPosition < 3021)
+          (scrollPosition > 1880 && scrollPosition < 3021)
             ? "active"
             : ""
         }
