@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/Luis-portfolios/static/css/main.bd14ad2a.css",
-    "main.js": "/Luis-portfolios/static/js/main.1002ca8f.js",
-    "static/media/portfolio.jpg": "/Luis-portfolios/static/media/portfolio.7f11ffd1bf1ff1a8eb7b.jpg",
+    "main.js": "/Luis-portfolios/static/js/main.92f44b54.js",
     "static/media/aboutmerec.jpg": "/Luis-portfolios/static/media/aboutmerec.cfdf8cf15908b4d6aa21.jpg",
     "static/media/portfolio2.webp": "/Luis-portfolios/static/media/portfolio2.a30ad8a23a8ea1fdb616.webp",
     "static/media/mileyLogo.png": "/Luis-portfolios/static/media/mileyLogo.533a93bd235ba96b61bf.png",
@@ -13,12 +12,13 @@
     "static/media/learning.jpeg": "/Luis-portfolios/static/media/learning.744637b3f43f63df9294.jpeg",
     "static/media/Luis_Hung_Resume.pdf": "/Luis-portfolios/static/media/Luis_Hung_Resume.d14b874110edc8da74ba.pdf",
     "static/media/guitar.png": "/Luis-portfolios/static/media/guitar.647e925d378a830fa004.png",
+    "static/media/portfolio.PNG": "/Luis-portfolios/static/media/portfolio.ca585265cb4ae0fffe7e.PNG",
     "index.html": "/Luis-portfolios/index.html",
     "main.bd14ad2a.css.map": "/Luis-portfolios/static/css/main.bd14ad2a.css.map",
-    "main.1002ca8f.js.map": "/Luis-portfolios/static/js/main.1002ca8f.js.map"
+    "main.92f44b54.js.map": "/Luis-portfolios/static/js/main.92f44b54.js.map"
   },
   "entrypoints": [
     "static/css/main.bd14ad2a.css",
-    "static/js/main.1002ca8f.js"
+    "static/js/main.92f44b54.js"
   ]
 }
