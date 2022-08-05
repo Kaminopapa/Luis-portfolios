@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Luis-portfolios/static/css/main.bd14ad2a.css",
-    "main.js": "/Luis-portfolios/static/js/main.92f44b54.js",
+    "main.js": "/Luis-portfolios/static/js/main.b5d2f943.js",
     "static/media/aboutmerec.jpg": "/Luis-portfolios/static/media/aboutmerec.cfdf8cf15908b4d6aa21.jpg",
     "static/media/portfolio2.webp": "/Luis-portfolios/static/media/portfolio2.a30ad8a23a8ea1fdb616.webp",
     "static/media/mileyLogo.png": "/Luis-portfolios/static/media/mileyLogo.533a93bd235ba96b61bf.png",
@@ -15,10 +15,10 @@
     "static/media/portfolio.PNG": "/Luis-portfolios/static/media/portfolio.ca585265cb4ae0fffe7e.PNG",
     "index.html": "/Luis-portfolios/index.html",
     "main.bd14ad2a.css.map": "/Luis-portfolios/static/css/main.bd14ad2a.css.map",
-    "main.92f44b54.js.map": "/Luis-portfolios/static/js/main.92f44b54.js.map"
+    "main.b5d2f943.js.map": "/Luis-portfolios/static/js/main.b5d2f943.js.map"
   },
   "entrypoints": [
     "static/css/main.bd14ad2a.css",
-    "static/js/main.92f44b54.js"
+    "static/js/main.b5d2f943.js"
   ]
 }
