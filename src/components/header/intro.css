@@ -1,0 +1,204 @@
+.blackHeader {
+    background: black;
+    animation: toGreen 3s linear;
+    animation-fill-mode: forwards;
+    animation-delay: 6s;
+}
+@keyframes toGreen{
+    0%{
+        background: black;
+    }100%{
+        background: var(--color-bg);
+    }
+}
+.intro_container {
+    padding-top: 20%;
+   
+}
+
+.hello::before {
+    display: flex;
+    content: "Hello";
+    padding-left: 47%;
+    animation: Hello 5s ease-in;
+    animation-fill-mode: forwards;
+}
+
+@keyframes Hello {
+    0% {
+        color: transparent;
+    }
+
+    10% {
+        color: rgba(255, 255, 255, 0.041);
+    }
+
+    20% {
+        color: white;
+    }
+
+    40% {
+        
+        color: transparent;
+    }
+
+    60% {
+        content: 'I am';
+        color: rgba(255, 255, 255, 0.041);
+
+    }
+
+    70% {
+        content: 'I am';
+        color: white;
+
+    }
+
+    80% {
+        content: 'I am';
+        color: rgba(255, 255, 255, 0.041);
+
+    }
+
+    90% {
+        color: transparent;
+    }
+
+    100% {
+        content: "";
+        opacity: 0;
+    }
+}
+
+h1 span {
+    font-size: 4rem;
+    opacity: 0;
+    animation: showUp 3s linear;
+    animation-fill-mode: forwards;
+    animation-delay: 5s;
+
+}
+
+@keyframes showUp {
+    0% {
+        opacity: 1;
+        color: transparent;
+    }
+
+    15% {
+        opacity: 1;
+        color: rgba(255, 255, 255, 0.041);
+    }
+
+    30% {
+        opacity: 1;
+
+    }
+
+    45% {
+        opacity: 1;
+        text-shadow: 0 0 10px hsl(0, 0%, 100%);
+
+    }
+
+    60% {
+        opacity: 1;
+        text-shadow: 0 0 40px hsl(0, 0%, 100%);
+    }
+
+    75% {
+        opacity: 1;
+        text-shadow: 0 0 10px hsl(0, 0%, 100%);
+    }
+
+    90% {
+        opacity: 1;
+        text-shadow: 0 0 5px hsl(0, 0%, 100%);
+    }
+
+    100% {
+        opacity: 1;
+        color: white;
+    }
+}
+
+/* letter Luis */
+h1:hover span:nth-child(1) {
+    margin-right: 2px;
+}
+
+h1:hover span:nth-child(1):after {
+    content: "uis";
+}
+
+/* letter Mi */
+h1:hover span:nth-child(2) {
+    margin-left: 10px;
+}
+
+h1:hover span:nth-child(2):after {
+    content: "i";
+}
+
+/* letter Guel */
+h1:hover span:nth-child(3) {
+    text-transform: lowercase;
+}
+
+h1:hover span:nth-child(3):after {
+    content: "uel";
+}
+
+h1:hover span:nth-child(4) {
+    margin-left: 10px;
+}
+
+h1:hover span:nth-child(4):after {
+    content: "ung";
+}
+
+h1:hover span:nth-child(5) {
+    margin-left: 10px;
+}
+
+h1:hover span:nth-child(5):after {
+    content: "u";
+}
+
+h1:hover span {
+    color: white;
+    text-shadow: 0 0 10px hsl(0, 0%, 100%), 0 0 20px hsl(0, 0%, 100%), 0 0 40px hsl(0, 0%, 100%);
+}
+
+h1 span::before {
+    transition: 5s ease-out;
+}
+
+/* MEDIA QUERIES (MEDIUM DEVICES) */
+@media screen and (max-width:1024px) {
+    header {
+        height: 100vh;
+    }
+}
+
+/* MEDIA QUERIES (small DEVICES) */
+@media screen and (max-width:600px) {
+    .intro_container {
+        padding-top: 50%;
+    }
+
+    h1 span {
+        font-size: 2rem;
+    }
+
+    .hello{
+        transform: translate(-10%,-10%);
+    }
+    .header__socials,
+    .scroll__down {
+        display: none;
+    }
+
+
+
+}
